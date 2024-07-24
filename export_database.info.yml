@@ -1,0 +1,6 @@
+name: export database
+type: module
+description: Permet d&#039;exporter le fichier de base de données
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9

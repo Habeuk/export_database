@@ -1,0 +1,6 @@
+export_database.settings_form:
+  title: export database
+  description: Configure export database.
+  parent: system.admin_config_system
+  route_name: export_database.settings_form
+  weight: 10

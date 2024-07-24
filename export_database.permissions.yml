@@ -1,0 +1,4 @@
+administer export_database configuration:
+  title: 'Administer export_database configuration'
+  description: 'Optional description.'
+  restrict access: true
