@@ -1,5 +1,5 @@
 {
-    "name": "stephane/export_database",
+    "name": "habeuk/export_database",
     "description": "Permet d'exporter la base de données",
     "type": "drupal-custom-module",
     "license": "MIT",
